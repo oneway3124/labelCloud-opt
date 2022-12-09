@@ -1,0 +1,662 @@
+2022-12-09 13:59:26,900 - INFO    : Set export strategy to KittiFormat.
+2022-12-09 13:59:26,915 - INFO    : Saving rotations relatively to positve x-axis in radians (-pi..+pi).
+2022-12-09 13:59:28,976 - INFO    : Loading next point cloud...
+2022-12-09 13:59:28,976 - INFO    : Loading point cloud from pointclouds\000000.bin using NumpyHandler.
+2022-12-09 13:59:28,977 - INFO    : ================================================== Loading 000000.bin ==================================================
+2022-12-09 13:59:29,047 - INFO    : Generated colors for colorless point cloud based on height.
+2022-12-09 13:59:29,047 - INFO    : Successfully loaded point cloud from pointclouds\000000.bin!
+2022-12-09 13:59:29,048 - INFO    : Number of Points:       20285          
+2022-12-09 13:59:29,048 - INFO    : Number of Colors:       20285          
+2022-12-09 13:59:29,048 - INFO    : Point Cloud Center:     [11.96  0.22 -0.88]     
+2022-12-09 13:59:29,048 - INFO    : Point Cloud Minimums:   [  4.54 -16.13  -2.35]  
+2022-12-09 13:59:29,048 - INFO    : Point Cloud Maximums:   [73.04 23.59  2.64]     
+2022-12-09 13:59:29,048 - INFO    : Initial Translation:    [-11.96  -0.22 -78.46]  
+2022-12-09 13:59:29,048 - INFO    : ========================================================================================================================
+2022-12-09 13:59:29,048 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 13:59:29,049 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 13:59:29,049 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 13:59:29,049 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 13:59:29,049 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 13:59:29,049 - INFO    : Alignmode was changed to False!
+2022-12-09 13:59:29,049 - INFO    : Imported 0 labels from labels\000000.txt.
+2022-12-09 13:59:29,050 - INFO    : Loaded 0 bboxes!
+2022-12-09 13:59:29,050 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 13:59:29,050 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 13:59:29,050 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 13:59:29,064 - INFO    : Intialized widget.
+2022-12-09 13:59:29,068 - INFO    : Resized widget.
+2022-12-09 13:59:29,128 - INFO    : Showing GUI...
+2022-12-09 13:59:29,133 - INFO    : Resized widget.
+2022-12-09 13:59:29,372 - INFO    : Resized widget.
+2022-12-09 13:59:42,330 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 13:59:53,101 - INFO    : Enabled drawing mode.
+2022-12-09 14:01:25,058 - INFO    : File labels\000000.txt already exists, replacing file ...
+2022-12-09 14:01:25,058 - INFO    : Exported 1 labels to labels\000000.txt in KittiFormat formatting!
+2022-12-09 14:01:31,670 - INFO    : File labels\000000.txt already exists, replacing file ...
+2022-12-09 14:01:31,671 - INFO    : Exported 1 labels to labels\000000.txt in KittiFormat formatting!
+2022-12-09 14:01:31,671 - INFO    : Loading next point cloud...
+2022-12-09 14:01:31,671 - INFO    : Loading point cloud from pointclouds\000002.bin using NumpyHandler.
+2022-12-09 14:01:31,672 - INFO    : ================================================== Loading 000002.bin ==================================================
+2022-12-09 14:01:31,738 - INFO    : Generated colors for colorless point cloud based on height.
+2022-12-09 14:01:31,741 - INFO    : Successfully loaded point cloud from pointclouds\000002.bin!
+2022-12-09 14:01:31,741 - INFO    : Number of Points:                   20210                      
+2022-12-09 14:01:31,741 - INFO    : Number of Colors:                   20210                      
+2022-12-09 14:01:31,741 - INFO    : Point Cloud Center:                 [13.   -0.04 -0.86]                 
+2022-12-09 14:01:31,742 - INFO    : Point Cloud Minimums:               [  4.77 -10.41  -2.7 ]              
+2022-12-09 14:01:31,742 - INFO    : Point Cloud Maximums:               [79.48  4.7   2.88]                 
+2022-12-09 14:01:31,742 - INFO    : Initial Translation:                [-1.300e+01  4.000e-02 -7.556e+01]  
+2022-12-09 14:01:31,742 - INFO    : ========================================================================================================================
+2022-12-09 14:01:31,744 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:31,744 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:31,744 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:31,745 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:31,745 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:31,745 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:31,745 - INFO    : Alignmode was changed to False!
+2022-12-09 14:01:31,745 - INFO    : Imported 2 labels from labels\000002.txt.
+2022-12-09 14:01:31,745 - INFO    : Loaded 2 bboxes!
+2022-12-09 14:01:31,745 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:31,746 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:31,746 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:31,748 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:31,748 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:31,760 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:31,760 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:31,793 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:31,793 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:31,824 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:31,824 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:31,857 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:31,857 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:31,888 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:31,888 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:31,917 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:31,918 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:31,949 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:31,950 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:31,984 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:31,984 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,013 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,013 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,044 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,045 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,077 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,078 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,107 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,107 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,136 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,137 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,171 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,171 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,201 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,202 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,232 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,232 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,266 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,266 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,296 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,296 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,326 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,327 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,362 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,362 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,392 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,392 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,423 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,423 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,457 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,457 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,489 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,489 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,518 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,519 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,550 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,550 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,579 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,580 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,610 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,610 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,642 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,643 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,673 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,673 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,703 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,704 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,736 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,737 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,767 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,767 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,798 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,798 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,831 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,832 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,864 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,864 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,893 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,894 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,926 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,927 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,958 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,958 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:32,985 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:32,985 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,024 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,025 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,054 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,055 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,086 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,087 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,119 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,120 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,148 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,148 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,177 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,177 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,210 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,210 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,240 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,240 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,271 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,271 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,306 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,306 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,335 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,336 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,354 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,354 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,385 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,386 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,428 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,429 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,458 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,459 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,492 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,492 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,521 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,522 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,551 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,551 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,583 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,584 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,613 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,613 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,636 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,636 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,670 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,670 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,700 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,701 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,732 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,732 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,765 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,766 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,796 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,796 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,827 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,827 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,863 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,863 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,893 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,893 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,915 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,916 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,950 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,950 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:33,981 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:33,981 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,012 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,012 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,045 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,046 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,076 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,076 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,113 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,113 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,148 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,148 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,173 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,173 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,204 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,204 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,229 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,229 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,260 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,261 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,292 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,292 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,325 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,325 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,357 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,357 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,387 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,387 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,429 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,430 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,459 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,460 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,490 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,490 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,523 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,523 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,551 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,552 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,581 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,581 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,615 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,616 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,644 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,645 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,674 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,674 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,707 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,707 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,737 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,738 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,767 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,767 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,800 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,800 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,829 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,829 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,860 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,861 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,861 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,894 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,895 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,895 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,925 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,926 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,926 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,957 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,958 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,958 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,988 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:34,988 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:34,989 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,016 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,017 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,017 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,047 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,048 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,048 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,082 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,083 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,083 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,112 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,113 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,113 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,144 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,144 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,144 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,175 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,176 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,176 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,207 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,207 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,208 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,238 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,238 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,239 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,271 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,272 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,272 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,302 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,303 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,303 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,333 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,334 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,334 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,368 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,368 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,369 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,397 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,398 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,398 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,428 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,429 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,429 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,463 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,464 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,464 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,495 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,495 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,496 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,525 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,526 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,526 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,559 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,560 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,560 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,590 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,591 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,591 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,629 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,630 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,630 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,653 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,654 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,654 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,682 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,683 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,683 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,716 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,717 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,717 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,746 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,746 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,747 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,781 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,781 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,782 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,808 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,808 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,809 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,838 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,839 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,839 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,870 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,871 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,871 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,901 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,902 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,902 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,936 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,937 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,937 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,966 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,967 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,967 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,997 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:35,998 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:35,998 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,031 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,031 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,031 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,061 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,062 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,062 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,093 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,093 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,094 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,126 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,127 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,127 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,158 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,158 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,159 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,189 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,190 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,190 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,223 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,224 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,224 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,254 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,254 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,255 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,286 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,286 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,287 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,319 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,320 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,320 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,349 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,349 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,350 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,380 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,381 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,381 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,414 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,415 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,415 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,442 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,443 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,443 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,473 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,473 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,474 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,507 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,507 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,508 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,536 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,537 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,537 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,567 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,568 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,568 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,600 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,601 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,601 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,630 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,631 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,631 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,662 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,662 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,663 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,695 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,696 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,696 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,726 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,727 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,727 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,744 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,745 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,745 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,781 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,782 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,782 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,813 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,813 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,814 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,844 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,845 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,845 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,877 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,878 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,878 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,901 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,902 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,902 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,932 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,933 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,933 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,966 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,967 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,967 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:36,997 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,998 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:36,998 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,025 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,026 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,026 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,062 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,063 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,063 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,093 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,094 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,094 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,124 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,125 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,125 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,158 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,158 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,159 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,188 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,189 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,189 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,211 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,212 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,212 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,246 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,246 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,247 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,276 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,277 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,278 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,307 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,307 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,308 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,341 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,341 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,342 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,372 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,373 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,373 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,402 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,403 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,403 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,434 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,435 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,435 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,465 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,465 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,466 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,497 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,497 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,498 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,531 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,531 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,532 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,561 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,562 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,562 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,592 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,593 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,593 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,626 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,627 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,627 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,653 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,654 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,654 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,684 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,685 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,685 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,717 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,718 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,718 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,748 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,749 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,749 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,779 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,780 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,780 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,813 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,813 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,814 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,842 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,843 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,843 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,875 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,875 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,876 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,902 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,903 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,903 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,933 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,934 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,934 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,965 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,965 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,966 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:37,998 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,999 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:37,999 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,028 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,029 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,029 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,060 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,060 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,061 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,093 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,094 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,094 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,123 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,123 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,124 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,153 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,154 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,154 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,186 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,187 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,188 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,214 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,215 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,215 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,245 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,246 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,246 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,279 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,280 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,280 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,309 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,310 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,310 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,341 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,341 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,342 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,374 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,374 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,374 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,402 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,403 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,403 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,433 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,434 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,434 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,466 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,467 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,467 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,496 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,497 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,497 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,527 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,528 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,528 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,561 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,562 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,562 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,591 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,592 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,592 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,623 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,624 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,624 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,656 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,657 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,657 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,687 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,687 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,688 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,716 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,717 - WARNING : No color defined for class 'Misc'!Proceeding with red.
+2022-12-09 14:01:38,717 - WARNING : No color defined for class 'Car'!Proceeding with red.
+2022-12-09 14:01:38,731 - INFO    : File labels\000002.txt already exists, replacing file ...
+2022-12-09 14:01:38,731 - INFO    : Exported 2 labels to labels\000002.txt in KittiFormat formatting!
+2022-12-09 14:01:38,732 - INFO    : Loading next point cloud...
+2022-12-09 14:01:38,732 - INFO    : Loading point cloud from pointclouds\007479.bin using NumpyHandler.
+2022-12-09 14:01:38,736 - INFO    : ================================================== Loading 007479.bin ==================================================
+2022-12-09 14:01:39,133 - INFO    : Generated colors for colorless point cloud based on height.
+2022-12-09 14:01:39,143 - INFO    : Successfully loaded point cloud from pointclouds\007479.bin!
+2022-12-09 14:01:39,143 - INFO    : Number of Points:                      123658                        
+2022-12-09 14:01:39,143 - INFO    : Number of Colors:                      123658                        
+2022-12-09 14:01:39,144 - INFO    : Point Cloud Center:                    [ 0.07  0.5  -1.16]                    
+2022-12-09 14:01:39,144 - INFO    : Point Cloud Minimums:                  [-70.15 -57.06  -6.28]                 
+2022-12-09 14:01:39,144 - INFO    : Point Cloud Maximums:                  [72.8  78.54  2.91]                    
+2022-12-09 14:01:39,144 - INFO    : Initial Translation:                   [-7.0000e-02 -5.0000e-01 -1.9608e+02]  
+2022-12-09 14:01:39,144 - INFO    : ========================================================================================================================
+2022-12-09 14:01:39,146 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:39,146 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:39,146 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:39,147 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:39,147 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:39,147 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:39,147 - INFO    : Alignmode was changed to False!
+2022-12-09 14:01:39,147 - INFO    : Imported 0 labels from labels\007479.txt.
+2022-12-09 14:01:39,147 - INFO    : Loaded 0 bboxes!
+2022-12-09 14:01:39,147 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:39,147 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:01:39,148 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:02:06,657 - WARNING : There is currently no active bounding box to manipulate.
+2022-12-09 14:02:08,881 - INFO    : Enabled drawing mode.
+2022-12-09 14:02:23,574 - INFO    : File labels\007479.txt already exists, replacing file ...
+2022-12-09 14:02:23,575 - INFO    : Exported 1 labels to labels\007479.txt in KittiFormat formatting!
