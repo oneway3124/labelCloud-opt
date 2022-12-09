@@ -1,0 +1,27 @@
+{
+    "classes": [
+        {
+            "name": "unassigned",
+            "id": 0,
+            "color": "#9da2ab"
+        },
+        {
+            "name": "cart",
+            "id": 1,
+            "color": "#000000"
+        },
+        {
+            "name": "box",
+            "id": 2,
+            "color": "#f156ff"
+        },
+        {
+            "name": "person",
+            "id": 3,
+            "color": "#9e72e5"
+        }
+    ],
+    "default": 0,
+    "type": "object_detection",
+    "format": "kitti"
+}
