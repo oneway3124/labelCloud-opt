@@ -36,7 +36,7 @@ class PointCloudManger(object):
         self.pcd_folder = config.getpath("FILE", "pointcloud_folder")
         self.pcds: List[Path] = []
         # self.current_id = -1
-        self.current_id = 39
+        self.current_id = -1
 
         self.view: GUI
         self.label_manager = LabelManager()
@@ -93,7 +93,7 @@ class PointCloudManger(object):
 
         self.view.init_progress(min_value=0, max_value=len(self.pcds) - 1)
         # self.current_id = -1
-        self.current_id = 39
+        self.current_id = -1
 
     # GETTER
     def pcds_left(self) -> bool:

@@ -231,7 +231,7 @@ class Controller:
                 self.selected_side, -a0.angleDelta().y() / 4000  # type: ignore
             )  # ToDo implement method
         else:
-            """·Å´ó±¶Êý"""
+            #"""ï¿½Å´ï¿½ï¿½ï¿½"""
             self.pcd_manager.zoom_into(a0.angleDelta().y()*50)
             self.scroll_mode = True
 
